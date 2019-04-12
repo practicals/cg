@@ -8,7 +8,7 @@ class draw
    float dx,dy,length,x,y;
    int i,r;
 public:
-	dline()
+	draw()
 	{
 		dx=dy=length=x=y=i=r=0;
 	}
